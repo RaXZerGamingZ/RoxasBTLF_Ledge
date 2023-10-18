@@ -6,6 +6,6 @@ assets:
   source:
         - name: P_EX110_BTLF.mset
           type: mset
-          method: mset
+          method: copy
           source:
             - name: original\obj\P_EX110_BTLF.mset
