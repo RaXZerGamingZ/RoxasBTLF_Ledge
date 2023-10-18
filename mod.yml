@@ -8,6 +8,5 @@ assets:
   source:
   - name: P_EX110_BTLF.mset
     method: copy
-    type: mset
     source:
     - name: obj/P_EX110_BTLF.mset
