@@ -1,8 +1,14 @@
-title: Dual Wield Roxas Ledge Grab
+title: Duel Wield Roxas Ledge Grab
 originalAuthor: RAXZER
-description: Gives Dual Wield Roxas animations for ledge grabbing
-- method: copy
-  name: original/obj/P_EX110_BTLF.mset
-  source:
+description: Gives Duel Wield Roxas animations for ledge grabbing
+assets:
   - name: original/obj/P_EX110_BTLF.mset
-
+    required: true
+    method: binarc
+    source:
+      - name: P_EX110_BTLF.mset
+        type: mset
+        method: copy
+        source:
+          - name: obj/P_EX110_BTLF.mset
+            index: 1
