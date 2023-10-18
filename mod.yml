@@ -2,6 +2,6 @@ title: Duel Wield Roxas Ledge Grab
 originalAuthor: RAXZER
 description: Gives Duel Wield Roxas animations for ledge grabbing
 assets:
-- name: original/obj/P_EX110_BTLF.mset
+- name: original\obj\P_EX110_BTLF.mset
   method: copy
-  source: original/obj/P_EX110_BTLF.mset
+  source: original\obj\P_EX110_BTLF.mset
