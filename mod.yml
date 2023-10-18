@@ -1,0 +1,4 @@
+title: Lost Nobody Theme
+originalAuthor: SAI3RINA
+description: Replaces Menu with the ones seen in the preview
+assets:- name: original\obj\P_EX110_BTLF.mset  method: copy  source:  - name: original\obj\P_EX110_BTLF.mset
