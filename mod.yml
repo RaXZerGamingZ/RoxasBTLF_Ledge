@@ -6,5 +6,5 @@ assets:
   method: listpatch
   type: List
   source:
-  - name: Dual Wield Roxas Ledge Grab.kh2pcpatch
+  - name: P_EX110_BTLF.mset
     type: moveset
