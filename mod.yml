@@ -1,4 +1,4 @@
-title: Lost Nobody Theme
-originalAuthor: SAI3RINA
-description: Replaces Menu with the ones seen in the preview
+title: Dual Wield Roxas Ledge Grab
+originalAuthor: RAXZER
+description: Gives Dual Wield Roxas animations for ledge grabbing
 assets:- name: original\obj\P_EX110_BTLF.mset  method: copy  source:  - name: original\obj\P_EX110_BTLF.mset
