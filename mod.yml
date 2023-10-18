@@ -1,0 +1,10 @@
+title: Dual Wield Roxas Ledge Grab
+originalAuthor: RAXZER
+description: Gives Dual Wield Roxas animations for ledge grabbing
+assets:
+- name: P_EX110_BTLF.mset
+  method: listpatch
+  type: List
+  source:
+  - name: Dual Wield Roxas Ledge Grab.kh2pcpatch
+    type: moveset
